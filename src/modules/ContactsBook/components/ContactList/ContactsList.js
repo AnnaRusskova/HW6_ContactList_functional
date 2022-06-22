@@ -1,5 +1,5 @@
 import './ContactList.css'
-import {ContactCard} from './ContactCard'
+import {ContactCard} from '../ContactCard/ContactCard'
 
 export function ContactsList ({contactList,setContactList,onContactEdit, onContactDelete, showPopup, setShowPopup,setSelectedContact}) {
 

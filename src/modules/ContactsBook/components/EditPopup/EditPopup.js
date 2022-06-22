@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import './EditPopUp.css';
+import './EditPopup.css';
 
 export function EditPopup ({contactToEdit, onEditComplete, showPopup, setShowPopup}) {
 
